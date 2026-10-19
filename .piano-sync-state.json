@@ -178,5 +178,10 @@
       "path": "Piano-Step-GitHub-Pages/index.html",
       "sha": "788a6dcbcc398c5e743c01f406492ca2668ba457"
     }
-  ]
+  ],
+  "deployment_commit": "b29577d8ad4bfe8fb81a3c5f9cd9c40da0229210",
+  "deployment_run_id": 39282519168,
+  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/39282519168",
+  "last_observed_actions_status": "queued",
+  "resume": "Check deployment_run_id before building or creating another deployment. When successful, verify public files against files[].sha and set last_successful_source_commit to pending_source_commit."
 }
