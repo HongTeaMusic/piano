@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "last_successful_source_commit": "e8dd4f1c41c0999c46a14c2c341dff04a139b64e",
+  "pending_source_commit": "971c642e91e9aeb91704d29bba808b6d2f835e91",
+  "source_version": 41,
+  "status": "pending_deployment",
+  "cutoff": "2026-10-20T00:00:00+09:00",
+  "files": [
+    {
+      "path": "Piano-Step-GitHub-Pages/.nojekyll",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/README.md",
+      "sha": "da1a1e860e59cfee4379fc4e7b1d092fb15f0aaf"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/index-BKAeVEYz.js",
+      "sha": "618de2074fbb2c66244c17b34ac399d56575aa6c"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/index-D9jA7hM6.css",
+      "sha": "29d4781069e86b122b89e361f05d63e62d978de9"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/lamejs-B0HlY4c_.js",
+      "sha": "e48ec4ae74556cf5b14f24a0c5c8eb5271e1e8e8"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/pdf-DPu9myMP.js",
+      "sha": "806d32f64eb3f3bb61e481e6707e2b185231308e"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/pdf.worker.min-CjEcRF4W.mjs",
+      "sha": "cfd094ab353c0abf300283d8ad3044503e98d1f2"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/vex-score-IzHvkpJ2.js",
+      "sha": "2d79ed3df45e7b1656a8161d4bdb0c60b6bf36e2"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/assets/vexflow-bravura-Bw9JxnIx.js",
+      "sha": "94f019820e5e0307064f296f8bdebc216214570d"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/102.mp3",
+      "sha": "d14e9ca800d2a2700d030c4bd4652742896d6b3d"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/105.mp3",
+      "sha": "21a1b3788230250ac3858fbad9b5ec2b1c548260"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/108.mp3",
+      "sha": "dd1b5745b46a29742b363d5e613c2c2986ab6fa7"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/21.mp3",
+      "sha": "76a473281c530cd28e652fd00c8bbc3147d30609"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/24.mp3",
+      "sha": "14d5dfc74ca6aead2b1459742ff34e613eb81998"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/27.mp3",
+      "sha": "a4a021d8859f3f44fad21b46e9309d59d6e11dc8"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/30.mp3",
+      "sha": "86822bb05ff9dfe66696449f6ebd965cee7e5abd"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/33.mp3",
+      "sha": "a169b8114744c419d03e354522ae6e655ed3afbc"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/36.mp3",
+      "sha": "b0057e3102bb5271d2850d802492f846d9d8704b"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/39.mp3",
+      "sha": "5428b73bc30e35ad29d0717d4c24267cf47061c3"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/42.mp3",
+      "sha": "179f82fa22fbfa4498490adfcf91d90166ec9a1d"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/45.mp3",
+      "sha": "94ec44543a5fbc907761b1a4fd3c8f9b5f8be4b9"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/48.mp3",
+      "sha": "a020ce5f646e0f3ddbce2a69487524409f5ae0c1"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/51.mp3",
+      "sha": "490af27ffbefc3e1f8a09229a21617ad0cf9a35a"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/54.mp3",
+      "sha": "54165ead19455c4eb040f45f00b141cfbddacaf9"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/57.mp3",
+      "sha": "e51798b1c87fcb6f07b7bf7b190498c971d7ccdf"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/60.mp3",
+      "sha": "a894fcf8e45e2d4d1284afcc01d9b4591f4dba25"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/63.mp3",
+      "sha": "f8cbe2ab80e9d3757513678dbac730a79715a95e"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/66.mp3",
+      "sha": "d9bcb8c0cb2dcc0f416c101a715846973a4da49a"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/69.mp3",
+      "sha": "148182e5e468da3d3a9a97fe1dbdc2903dce9ea4"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/72.mp3",
+      "sha": "c73c406370ee18f1863638d24a5f5a1397503e9f"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/75.mp3",
+      "sha": "3bdecbc2562e7eac98b870c369098da710fd37ae"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/78.mp3",
+      "sha": "fff60e077d4ab3a622eed7e3af44147a55cecb79"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/81.mp3",
+      "sha": "69c8aff138d2beda675c62471e98afa24869d2be"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/84.mp3",
+      "sha": "28764bc9277878a4ee701d51fa06fd6f3142fddb"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/87.mp3",
+      "sha": "c28114451376b2fbf0c1e1fa53fd003af96c92e0"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/90.mp3",
+      "sha": "b6c6c1372e7cb54aff734e44d53f1a8afcc20a28"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/93.mp3",
+      "sha": "b9a88d1ee3001f8fb065fe3f9fe8286edf9ea25a"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/96.mp3",
+      "sha": "c1b655244756a1fe95e2e1b14f1e87b63c5e24ee"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/99.mp3",
+      "sha": "4585305d28eb103e1814a8184f0b53c0991e52ff"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/MS-Basic-License.md",
+      "sha": "00248a1eb42cd5db3c7f30218897a0f7cf35fea2"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/audio/ms-basic-piano/manifest.json",
+      "sha": "507e1c93487a474bf81b504198071fdccada043e"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/favicon.svg",
+      "sha": "d73618afe589ab5b307f72a2e2cc652de586cbc8"
+    },
+    {
+      "path": "Piano-Step-GitHub-Pages/index.html",
+      "sha": "788a6dcbcc398c5e743c01f406492ca2668ba457"
+    }
+  ]
+}
