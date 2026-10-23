@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_successful_source_commit": "971c642e91e9aeb91704d29bba808b6d2f835e91",
-  "pending_source_commit": null,
-  "source_version": 41,
-  "status": "success",
-  "cutoff": "2026-10-20T00:00:00+09:00",
+  "pending_source_commit": "31e1081e664a3c6e2d9784267da25a7916aa17a3",
+  "source_version": 45,
+  "status": "pending",
+  "cutoff": "2026-10-24T00:00:00+09:00",
   "files": [
     {
       "path": "Piano-Step-GitHub-Pages/.nojekyll",
@@ -15,8 +15,8 @@
       "sha": "da1a1e860e59cfee4379fc4e7b1d092fb15f0aaf"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/index-BKAeVEYz.js",
-      "sha": "618de2074fbb2c66244c17b34ac399d56575aa6c"
+      "path": "Piano-Step-GitHub-Pages/assets/index-CZlxKN68.js",
+      "sha": "4e2e3be9cc9137b07c30cecbd08768ce468f2f40"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/index-D9jA7hM6.css",
@@ -27,16 +27,16 @@
       "sha": "e48ec4ae74556cf5b14f24a0c5c8eb5271e1e8e8"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/pdf-DPu9myMP.js",
-      "sha": "806d32f64eb3f3bb61e481e6707e2b185231308e"
+      "path": "Piano-Step-GitHub-Pages/assets/pdf-BAPmlvAQ.js",
+      "sha": "abf48fb75502ead788631a5e4f805f07ac921d89"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/pdf.worker.min-CjEcRF4W.mjs",
       "sha": "cfd094ab353c0abf300283d8ad3044503e98d1f2"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/vex-score-IzHvkpJ2.js",
-      "sha": "2d79ed3df45e7b1656a8161d4bdb0c60b6bf36e2"
+      "path": "Piano-Step-GitHub-Pages/assets/vex-score-Cgn401d8.js",
+      "sha": "05d71e6c8a78bdbcefa8e1a5bd4d075cf6fee911"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/vexflow-bravura-Bw9JxnIx.js",
@@ -176,14 +176,14 @@
     },
     {
       "path": "Piano-Step-GitHub-Pages/index.html",
-      "sha": "788a6dcbcc398c5e743c01f406492ca2668ba457"
+      "sha": "cd3fb05c2a0077e0c05b254a2d60a717728e2729"
     }
   ],
-  "deployment_commit": "b29577d8ad4bfe8fb81a3c5f9cd9c40da0229210",
-  "deployment_run_id": 39282519168,
-  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/39282519168",
-  "last_observed_actions_status": "completed",
-  "deployment_conclusion": "success",
-  "verified_at": "2026-10-21T00:59:09+09:00",
+  "deployment_commit": null,
+  "deployment_run_id": null,
+  "deployment_url": null,
+  "last_observed_actions_status": "pending",
+  "deployment_conclusion": null,
+  "verified_at": null,
   "public_url": "https://hongteamusic.github.io/piano/"
 }
