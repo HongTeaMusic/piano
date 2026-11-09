@@ -179,10 +179,10 @@
       "sha": "c1ebd4efdf408c251c06ea2f47745078962e1da9"
     }
   ],
-  "deployment_commit": null,
-  "deployment_run_id": null,
-  "deployment_url": null,
-  "last_observed_actions_status": "awaiting_run",
+  "deployment_commit": "005a5fa63df72fcb3bba8ec912623e19a877d82e",
+  "deployment_run_id": 42651793552,
+  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/42651793552",
+  "last_observed_actions_status": "in_progress",
   "deployment_conclusion": null,
   "verified_at": null,
   "public_url": "https://hongteamusic.github.io/piano/",
