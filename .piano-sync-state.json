@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_successful_source_commit": "e6404230f0c5807d65cf316781303892bc674ced",
-  "pending_source_commit": null,
-  "source_version": 71,
-  "status": "success",
-  "cutoff": null,
+  "pending_source_commit": "a9837915c596170d9416f78d8890f823c7602ec6",
+  "source_version": 72,
+  "status": "pending",
+  "cutoff": "2026-11-11T00:00:00+09:00",
   "files": [
     {
       "path": "Piano-Step-GitHub-Pages/.nojekyll",
@@ -186,6 +186,7 @@
   "deployment_conclusion": "success",
   "verified_at": "2026-11-10T05:38:12.080Z",
   "public_url": "https://hongteamusic.github.io/piano/",
-  "trigger": "manual-immediate",
-  "previous_successful_deployment_commit": "e07df75f3cc06acb3ef3df887c3e7e9e7913630a"
+  "trigger": "scheduled",
+  "previous_successful_deployment_commit": "e07df75f3cc06acb3ef3df887c3e7e9e7913630a",
+  "static_output_unchanged": true
 }
