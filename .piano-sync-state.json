@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "last_successful_source_commit": "e6404230f0c5807d65cf316781303892bc674ced",
-  "pending_source_commit": "a9837915c596170d9416f78d8890f823c7602ec6",
+  "last_successful_source_commit": "a9837915c596170d9416f78d8890f823c7602ec6",
+  "pending_source_commit": null,
   "source_version": 72,
-  "status": "pending",
+  "status": "success",
   "cutoff": "2026-11-11T00:00:00+09:00",
   "files": [
     {
@@ -179,16 +179,15 @@
       "sha": "bf70ceea4e01009aebf25bc547380c3c73532c7c"
     }
   ],
-  "deployment_commit": "496d86686549fa023251db3789ed8f07cbf7e3d6",
-  "deployment_run_id": 42850346502,
-  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/42763240579",
+  "deployment_commit": "223c82264ade1dab0fdddab7f3534d846fe027ae",
+  "deployment_run_id": 42850611034,
+  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/42850611034",
   "last_observed_actions_status": "completed",
-  "deployment_conclusion": "failure",
-  "verified_at": "2026-11-10T05:38:12.080Z",
+  "deployment_conclusion": "success",
+  "verified_at": "2026-11-10T16:05:15.841Z",
   "public_url": "https://hongteamusic.github.io/piano/",
   "trigger": "scheduled",
-  "previous_successful_deployment_commit": "e07df75f3cc06acb3ef3df887c3e7e9e7913630a",
+  "previous_successful_deployment_commit": "b36edf5f2cc8ed298fae3764ff081ab55db1e632",
   "static_output_unchanged": true,
-  "last_attempt_error": "First attempt could not discover uploaded artifact; retry produced duplicate github-pages artifacts.",
-  "retry_reason": "Start clean workflow run without changing deployment files or workflow."
+  "previous_failed_run_id": 42850346502
 }
