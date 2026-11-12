@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "last_successful_source_commit": "a9837915c596170d9416f78d8890f823c7602ec6",
-  "pending_source_commit": "3904767e53c13b44c5759d3e879cddcb6202fc94",
+  "last_successful_source_commit": "3904767e53c13b44c5759d3e879cddcb6202fc94",
+  "pending_source_commit": null,
   "source_version": 73,
-  "status": "pending",
+  "status": "success",
   "cutoff": "2026-11-13T00:00:00+09:00",
   "files": [
     {
@@ -179,15 +179,14 @@
       "sha": "e7235fa55cedef5ca9712fdff0fbf164e39eeb8a"
     }
   ],
-  "deployment_commit": "223c82264ade1dab0fdddab7f3534d846fe027ae",
-  "deployment_run_id": 42850611034,
-  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/42850611034",
+  "deployment_commit": "331a4175a6df18c78baeb278f044ff29baac5b4f",
+  "deployment_run_id": 43254393329,
+  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/43254393329",
   "last_observed_actions_status": "completed",
   "deployment_conclusion": "success",
-  "verified_at": "2026-11-10T16:05:15.841Z",
+  "verified_at": "2026-11-12T16:04:17.698Z",
   "public_url": "https://hongteamusic.github.io/piano/",
   "trigger": "scheduled",
-  "previous_successful_deployment_commit": "b36edf5f2cc8ed298fae3764ff081ab55db1e632",
-  "static_output_unchanged": false,
-  "previous_failed_run_id": 42850346502
+  "previous_successful_deployment_commit": "223c82264ade1dab0fdddab7f3534d846fe027ae",
+  "static_output_unchanged": false
 }
