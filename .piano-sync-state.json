@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_successful_source_commit": "a9837915c596170d9416f78d8890f823c7602ec6",
-  "pending_source_commit": null,
-  "source_version": 72,
-  "status": "success",
-  "cutoff": "2026-11-11T00:00:00+09:00",
+  "pending_source_commit": "3904767e53c13b44c5759d3e879cddcb6202fc94",
+  "source_version": 73,
+  "status": "pending",
+  "cutoff": "2026-11-13T00:00:00+09:00",
   "files": [
     {
       "path": "Piano-Step-GitHub-Pages/.nojekyll",
@@ -15,28 +15,28 @@
       "sha": "da1a1e860e59cfee4379fc4e7b1d092fb15f0aaf"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/index-Bxey0sX4.css",
-      "sha": "91bb8f1f08949d9f96337ee659abff42124d4722"
+      "path": "Piano-Step-GitHub-Pages/assets/index-BvjiRsnB.js",
+      "sha": "143abfdf03c50638059ed1392b0b977cd5ffc3f5"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/index-DlDOnbhD.js",
-      "sha": "abed9ce9722b7bd4488468f9d3c96ebf8424c788"
+      "path": "Piano-Step-GitHub-Pages/assets/index-Bxey0sX4.css",
+      "sha": "91bb8f1f08949d9f96337ee659abff42124d4722"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/lamejs-B0HlY4c_.js",
       "sha": "e48ec4ae74556cf5b14f24a0c5c8eb5271e1e8e8"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/pdf-BXM-BuTm.js",
-      "sha": "0c3b6a05dafa4c769619bab241ca9514abb1efae"
+      "path": "Piano-Step-GitHub-Pages/assets/pdf-WGWgsHce.js",
+      "sha": "d5487d6b32eb47ad8bd2eb7826eedf17204cc63b"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/pdf.worker.min-CjEcRF4W.mjs",
       "sha": "cfd094ab353c0abf300283d8ad3044503e98d1f2"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/vex-score-kjUpGzpt.js",
-      "sha": "1e5acf70810378b695f48242826d7f2a89ce5a51"
+      "path": "Piano-Step-GitHub-Pages/assets/vex-score-Cba8xztd.js",
+      "sha": "e42b05c0a499aa6e3fae372dbb158a4903f46d91"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/vexflow-bravura-Bw9JxnIx.js",
@@ -176,7 +176,7 @@
     },
     {
       "path": "Piano-Step-GitHub-Pages/index.html",
-      "sha": "bf70ceea4e01009aebf25bc547380c3c73532c7c"
+      "sha": "e7235fa55cedef5ca9712fdff0fbf164e39eeb8a"
     }
   ],
   "deployment_commit": "223c82264ade1dab0fdddab7f3534d846fe027ae",
@@ -188,6 +188,6 @@
   "public_url": "https://hongteamusic.github.io/piano/",
   "trigger": "scheduled",
   "previous_successful_deployment_commit": "b36edf5f2cc8ed298fae3764ff081ab55db1e632",
-  "static_output_unchanged": true,
+  "static_output_unchanged": false,
   "previous_failed_run_id": 42850346502
 }
