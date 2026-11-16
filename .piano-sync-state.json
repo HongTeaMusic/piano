@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "last_successful_source_commit": "7ead9214b1d807cb9e2c11445d5429f1d45b5cc1",
-  "pending_source_commit": null,
-  "source_version": 75,
-  "status": "success",
-  "cutoff": "2026-11-16T00:00:00+09:00",
+  "pending_source_commit": "774a4a256c4a094bb70621f41de274aa36f5603c",
+  "source_version": 77,
+  "status": "pending",
+  "cutoff": null,
   "files": [
     {
       "path": "Piano-Step-GitHub-Pages/.nojekyll",
@@ -15,28 +15,28 @@
       "sha": "da1a1e860e59cfee4379fc4e7b1d092fb15f0aaf"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/index-BZZ802v5.js",
-      "sha": "51298ff589bb24da68c42dd4bec5f5fa42f0a91d"
+      "path": "Piano-Step-GitHub-Pages/assets/index-BYWYcQeF.css",
+      "sha": "f89aeef1d117cf0b5d20f849356588dd23bfdd7c"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/index-Bxey0sX4.css",
-      "sha": "91bb8f1f08949d9f96337ee659abff42124d4722"
+      "path": "Piano-Step-GitHub-Pages/assets/index-CMSYB6Wh.js",
+      "sha": "ec9b0924910acdfc7a4d027cf3368d3252ef0dd7"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/lamejs-B0HlY4c_.js",
       "sha": "e48ec4ae74556cf5b14f24a0c5c8eb5271e1e8e8"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/pdf-CjkNKn7K.js",
-      "sha": "3733e59985172b74d4dfec6c6e90e3f784c5ff9f"
+      "path": "Piano-Step-GitHub-Pages/assets/pdf-BLABt9Bz.js",
+      "sha": "0e79497dceb659fa163b35f278b92055e809f0c5"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/pdf.worker.min-CjEcRF4W.mjs",
       "sha": "cfd094ab353c0abf300283d8ad3044503e98d1f2"
     },
     {
-      "path": "Piano-Step-GitHub-Pages/assets/vex-score-BAADgcSd.js",
-      "sha": "df87d8d6ad7d26507e60376566f0e3cefe08dcc2"
+      "path": "Piano-Step-GitHub-Pages/assets/vex-score-DSxuUwaT.js",
+      "sha": "999eb80b5cf06aab48b3145c102be08218f7bd90"
     },
     {
       "path": "Piano-Step-GitHub-Pages/assets/vexflow-bravura-Bw9JxnIx.js",
@@ -176,26 +176,18 @@
     },
     {
       "path": "Piano-Step-GitHub-Pages/index.html",
-      "sha": "8422a272efdaca5562e451c9234e4e0fc8856a32"
+      "sha": "7db14d47eb867d43e431d33936139b2fe282328e"
     }
   ],
-  "deployment_commit": "cdbb6285b16104d602fb1ca6b6491743eb3b4c2e",
-  "deployment_run_id": 43733154355,
-  "deployment_url": "https://github.com/HongTeaMusic/piano/actions/runs/43733154355",
-  "last_observed_actions_status": "completed",
-  "deployment_conclusion": "success",
-  "verified_at": "2026-11-15T16:03:32.135Z",
+  "deployment_commit": null,
+  "deployment_run_id": null,
+  "deployment_url": null,
+  "last_observed_actions_status": "pending",
+  "deployment_conclusion": null,
+  "verified_at": null,
   "public_url": "https://hongteamusic.github.io/piano/",
-  "trigger": "scheduled",
-  "previous_successful_deployment_commit": "331a4175a6df18c78baeb278f044ff29baac5b4f",
+  "trigger": "manual",
+  "previous_successful_deployment_commit": "cdbb6285b16104d602fb1ca6b6491743eb3b4c2e",
   "static_output_unchanged": false,
-  "verified_assets": {
-    "index": true,
-    "javascript": true,
-    "css": true,
-    "audio_manifest": true,
-    "piano_sample": true,
-    "audio_license": true,
-    "pdf_worker": true
-  }
+  "verified_assets": null
 }
